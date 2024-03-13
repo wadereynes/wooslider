@@ -1,0 +1,77 @@
+.home .entry-header .entry-title {
+    display: none;
+}
+
+.page-template-default .entry-content {
+    width: 100%;
+    max-width: initial;
+}
+
+.page-template-default:not(.has-post-thumbnail) .site-main {
+    padding-top: 0;
+}
+
+.slider-box {
+    max-width: 400px;
+    position: relative;
+}
+
+.hentry .slider-box .view-product{
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    display: block;
+    border-radius: 5px;
+    background: #0edea4;
+    width: 200px;
+    text-align: center;
+    padding: 10px 5px;
+    margin: 0 auto;
+}
+
+.hentry .slider-box .view-product:focus {
+    outline: none;
+}
+.hentry .slider-box .view-product:hover {
+    background: #14b98b;
+}
+
+.slider-box .slick-prev{
+    background: url('./images/controls.png');
+    font-size: 0;
+    width: 33px;
+    height: 31px;
+    outline: 0;
+    position: absolute;
+    left: 10px;
+    top: 25%;
+    z-index: 1;
+}
+
+.slider-box .slick-next{
+    background: url('./images/controls.png') -139px 0;
+    font-size: 0;
+    width: 33px;
+    height: 32px;
+    outline: 0;
+    position: absolute;
+    right: 10px;
+    top: 25%;
+    z-index: 1;
+}
+
+.slider-products {
+    width: auto;
+    position: relative;
+    margin: 0;
+}
+
+.slider-products li {
+    margin: 0 auto;
+}
+
+.slider-products li img {
+    width: 100% !important;
+    height: 360px !important;
+    border-radius: 5px;
+}
