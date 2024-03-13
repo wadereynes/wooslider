@@ -26,6 +26,11 @@ you can type your product of the day title
 ```
 
 ## Screenshots
+![home](https://raw.githubusercontent.com/wadereynes/wooslider/master/screenshots/admin-produc.png)
+
+![slider](https://raw.githubusercontent.com/wadereynes/wooslider/master/screenshots/slider.png)
+
+![options](https://raw.githubusercontent.com/wadereynes/wooslider/master/screenshots/theme-options.png)
 
 ## Contributing
 
